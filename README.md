@@ -6,7 +6,7 @@
 **Preview of Projects:**
 
 **Power BI HR Analytics Dashboard:**
-![HR Analytics POwer BI Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/eaa60708-2dc7-4185-a719-7b9fdd3e0bc1) 
+![HR Analytics POwer BI Dashboard](https://github.com/vyansidiyora2000/Hr-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20Power%20BI.pbix) 
 
 **Tableau HR Analytics Project:**
 ![HR Analytics Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/0d853a88-0651-4eae-a282-3b03abe5ed40)
