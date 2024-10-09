@@ -6,22 +6,14 @@
 **Preview of Projects:**
 
 **Power BI HR Analytics Dashboard:**
-![HR Analytics POwer BI Dashboard](https://github.com/vyansidiyora2000/Hr-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard%20Power%20BI.pbix) 
+![HR Analytics POwer BI Dashboard](https://github.com/vyansidiyora2000/Hr-Analytics-Dashboard/blob/main/assests/powerbi.png) 
 
-**Tableau HR Analytics Project:**
-![HR Analytics Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/0d853a88-0651-4eae-a282-3b03abe5ed40)
-
-**SQL Queries:**
-![SQL Queries HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/b3ff0499-8fa8-4357-8a5a-1a36a0832e98)
-
-**SQL Power BI Test Document:**
-![SQL Power Bi Test](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/40d831f7-b6b9-4c20-9b68-16443c456f25)
 
 **SQL Tableau Test Document:**
-![SQL Tableau Test HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/4140fb78-7148-450a-bfd8-ac15e255e4ec)
+![SQL Tableau Test HR Analytics](https://github.com/vyansidiyora2000/Hr-Analytics-Dashboard/blob/main/assests/Tableau.png)
 
 **Excel HR Analytics Dashboard:**
-![HR Analytics Excel Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/61adb174-ab1f-4b95-8bb5-c5840c6f058e)
+![HR Analytics Excel Dashboard](https://github.com/vyansidiyora2000/Hr-Analytics-Dashboard/blob/main/assests/excel.jpg)
 
 
 **Project Overview**
