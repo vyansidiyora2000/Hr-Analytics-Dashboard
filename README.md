@@ -6,7 +6,7 @@
 **Preview of Projects:**
 
 **Power BI HR Analytics Dashboard:**
-![HR Analytics POwer BI Dashboard](https://github.com/vyansidiyora2000/Hr-Analytics-Dashboard/blob/main/assests/powerbi.png) 
+![HR Analytics POwer BI Dashboard](https://github.com/vyansidiyora2000/Hr-Analytics-Dashboard/blob/main/assests/powerbi.jpg) 
 
 
 **SQL Tableau Test Document:**
